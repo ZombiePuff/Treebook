@@ -3,11 +3,15 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .status {
-	border-bottom: solid 1px #CCC;
+	border-bottom: solid 1px #AAA;
 	padding: 5px 0;
+	
 }
 .status p {
 	margin: 4px 0;
+	padding: 1px 1px 1px 4px;
+	background-color:#EEE;
+	border-radius: 10px 10px 10px 10px;
 }
 .status .admin {
 	display: none;
